@@ -4,7 +4,7 @@
 
 
 ## 🏙 Career
-- Hanwha Systems ICT, AICC 시스템 운영 (2025.01 ~)
+- Hanwha Systems ICT, 콜센터 및 AICC 시스템 운영 (2025.01 ~)
 - Mint Technology, 웹 풀스택 개발 인턴 (2024.09 ~ 2024.12)
 
 ## 🎓 Education
