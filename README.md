@@ -1,9 +1,6 @@
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rhthrhrl0)](https://solved.ac/rhthrhrl0)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhthrhrl0)](https://github.com/rhthrhrl0/github-readme-stats)
-
-
 ## 🏙 Career
 - Hanwha Systems ICT, 콜상담시스템(IPCC) 및 AICC 시스템 운영 (2025.01 ~)
 - Mint Technology, 웹 풀스택 개발 인턴 (2024.09 ~ 2024.12)
